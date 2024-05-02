@@ -1,0 +1,5 @@
+2024-05-02 09:33:55,067 - INFO - Exchange rates updated successfully.
+2024-05-02 09:33:56,373 - INFO - Exchange rates sent.
+2024-05-02 09:34:01,468 - INFO - Start command processed.
+2024-05-02 09:34:02,401 - INFO - Language selected: ukrainian
+2024-05-02 09:35:13,279 - INFO - Name received: Дима
